@@ -4,7 +4,7 @@ Template for a Data Management Plan to complete during the progress of GRAD521
 You can use this template to edit your data management plan in GitHub. 
 
 # How to Use This Repository
-This template is designed so that you will have a data management plan and a working webpage for specific to your research project. If you are only interested in creating the data management plan and don't want to make a Github Webpage then skip to [this](#using-our-template-and-guide-documents) step.
+This template is designed so that you will have a data management plan and a working webpage for specific to your research project. 
 
 ## What is Github Pages
 * Once a repository is set up with Github pages, any file in the repository can be navigated to in a web browser. Markdown or html files (in this case we use Markdown) will be viewed as webpages.
