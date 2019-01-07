@@ -4,10 +4,10 @@ Template for a Data Management Plan to complete during the progress of GRAD521
 You can use this template to edit your data management plan in GitHub. 
 
 # How to Use This Repository
-This template is designed so that you will have a data management plan and a working webpage for specific to your research project. 
+This template is designed so that you will have a data management plan and a working webpage for the research project that you decided to use for GRAD 521. 
 
 ## What is Github Pages
-* Once a repository is set up with Github pages, any file in the repository can be navigated to in a web browser. Markdown or html files (in this case we use Markdown) will be viewed as webpages.
+GitHub pages is a static site hosting service. Once a repository is set up with Github pages, any file in the repository can be navigated to in a web browser. Markdown or html files (in this case we use Markdown) will be viewed as webpages.
 
 ## Set Up A Github Repository
 Github is a website used to share data and allow multiple people to work on the same project. You will need a Github account  and can create one [here](hhttps://github.com/join "Create a Github account").  
@@ -30,7 +30,7 @@ Markdown was created to be easy to read and edit and we use this format for all 
 (ie. end of line." __ ")
 * The guide shows the different ways to format hyperlinks but doesn't describe the different types of links. I describe the different links in other section [below](#customizing-github-pages).
 
-It is easiest to edit markdown files either by editing the documents through Github in a web browser or by using source code editing software such as Notepad++ or Atom (these docs were created using Atom). You could theoretically use Microsoft Word or Google Docs but it is strongly recommended that you use Github's editor instead. To edit them using Github simply navigate to your repository, click on the file you want to edit and click the edit (pencil) button on the top right of the page.
+It is easiest to edit markdown files either by editing the documents through Github in a web browser or by using a text editor. Source code editing software such as Notepad++ or Atom are useful tools when editing code (e.g. text highlighting, indentation, etc), but not a requirement to edit simple Markdown. Avoid using Microsoft Word or Google Docs, as they are not plain text editors. Use Github's editor instead. To edit the content of your repository using Github navigate to your repository, click on the file you want to edit and click the edit (pencil) button on the top right of the page.
 
 ## Customizing Github Pages
 When you use Github Pages your repository is your webserver. Therefor, the file titled "index" will be the homepage of your website. 
