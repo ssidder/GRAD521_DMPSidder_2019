@@ -41,3 +41,6 @@ Github has also created a number of themes that change the appearance of your pa
 
 You can also use HTML to create/format any pages on your repository. For simplicity and to show what Markdown can do; nothing in this repository was written using HTML.
 
+## License
+The materials in this repository are licensed as [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/). You are free to use, create derivatives and redistribute this template. Attribution is not required. 
+
