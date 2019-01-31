@@ -1,5 +1,5 @@
 # GRAD521_DMPtemplate
-Template for a Data Management Plan to complete during the progress of GRAD521
+Template for a Data Management Plan to complete assignments for GRAD521 Research Data Management
 
 You can use this template to edit your data management plan in GitHub. 
 
