@@ -29,6 +29,9 @@ Data Management Plan Implementation:
 The project PI is responsile for DMP implementation among the project team. This individual assigns roles and sets standards for the team to follow.
 
 # Data standards and metadata
+The metadata standard that will be used to document data for this project is the Content Standard for Digital Geospatial Metadata (CSDGM), Version 2 established and defined in the Federal Geographic Data Committee Metadata Guidelines for the United States. The CSDGM standard was designed for the field of geospatial science to help researchers create consistent metadata for spatial data. The CSDGM provides a framework that lists out the seven components for the standard: identification information, data quality information, spatial data organization information, spatial references information, entity and attribute information, distribution information, and metadata reference information.
+
+The CSDGM standards will be applied to the datasets generated through this project as all anticipated input and output datasets are expected to be spatial. Each data layer will be documented using the seven recommended metadata elements. Specifically, the CSDGM standards will be used to document both the primary GPS dataset and also any secondary data layers that I generate through analyses in ArcGIS or R that will be used as model inputs.
 
 # Storage and security
 
